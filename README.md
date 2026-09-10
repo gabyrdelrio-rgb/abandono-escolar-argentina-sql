@@ -22,3 +22,5 @@ Los datos crudos e históricos fueron extraídos de los portales de datos abiert
 ### 📁 Estructura de este Repositorio
 - `/scripts`: Archivos de código con las consultas `.sql` utilizadas para limpiar la información.
 - `/images`: Capturas de pantalla del reporte visual (podes subir esta misma imagen que me mandaste).
+### 🖼️ Previsualización del Dashboard
+![Dashboard de Abandono Escolar](dashboard_preview.png)
