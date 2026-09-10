@@ -6,7 +6,7 @@ Análisis de la tasa de abandono interanual escolar en Argentina (2012-2024) uti
 Este proyecto analiza la tasa de abandono interanual escolar en los niveles primario y secundario de Argentina a lo largo de 12 años, desagregado por provincia y período de estudio. El fin es identificar patrones geográficos y el impacto de quiebres temporales (como la pandemia) para aportar insights basados en datos sobre la retención educativa.
 
 ### 📊 Link al Dashboard Interactivo
-🔗 **[Ver dashboard completo en Looker Studio](PEGA_AQUÍ_EL_LINK_COMPLETO_DE_TU_REPORTE)**
+🔗 **[Ver dashboard completo en Looker Studio]([PEGA_AQUÍ_EL_LINK_COMPLETO_DE_TU_REPORTE](https://media.licdn.com/dms/image/v2/D4D2DAQHtbLH_Q3RQtw/profile-treasury-document-images_1280/B4DaBopTiJIgAg-/1/1788462054605?e=1790208000&v=beta&t=mNxy3YqyDdT4Ajw6ixp2ZIlOETcvCKZ3kN-gTOIeqUs)**
 
 ### 🛠️ Tecnologías y Herramientas Utilizadas
 - **SQL:** Exploración, filtrado y limpieza profunda de las series estadísticas históricas.
